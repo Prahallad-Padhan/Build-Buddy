@@ -1,0 +1,20 @@
+[
+    {
+        "title": "AI Chatbot",
+        "category": "AI",
+        "level": "intermediate",
+        "description": "A chatbot that uses NLP to respond to user queries."
+    },
+    {
+        "title": "Portfolio Website",
+        "category": "Web",
+        "level": "beginner",
+        "description": "A personal website to showcase your skills and projects."
+    },
+    {
+        "title": "Smart Door Lock System",
+        "category": "IoT",
+        "level": "advanced",
+        "description": "An IoT-based smart door lock using sensors and ESP32."
+    }
+]
